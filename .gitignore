@@ -12,4 +12,6 @@ ltmain.sh
 missing
 Makefile.in
 autom4te.cache
+COPYING
+INSTALL
 
