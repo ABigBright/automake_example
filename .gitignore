@@ -1,0 +1,13 @@
+*.m4*
+*.log*
+compile
+config.guess*
+config.h.in
+config.sub
+configure
+configure.scan
+depcomp
+install-sh
+ltmain.sh
+missing
+
